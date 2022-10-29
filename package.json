@@ -1,0 +1,27 @@
+{
+  "name": "hello_microverse",
+  "version": "1.0.0",
+  "description": "I'm designing a Hello Microverse page using Linters.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yordinia/Hello_Microverse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yordinia/Hello_Microverse/issues"
+  },
+  "homepage": "https://github.com/Yordinia/Hello_Microverse#readme",
+  "devDependencies": {
+    "hint": "^7.1.3",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
